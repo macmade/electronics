@@ -15,7 +15,7 @@ Resources for electronic projects.
 License
 -------
 
-All project files are released under the terms of the CERN Open Hardware License (OHL).
+All project files are released under the terms of the CERN Open Hardware License - CERN OHL v.1.2.
 
 Repository Infos
 ----------------
