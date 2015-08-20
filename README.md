@@ -11,6 +11,11 @@ About
 
 Resources for electronic projects.
 
+### Software
+
+Schemas and PCB layouts are created with KiCad:  
+http://www.kicad-pcb.org
+
 
 License
 -------
